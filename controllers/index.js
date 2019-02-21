@@ -1,7 +1,7 @@
 const {
   getProject,
   getProjectById,
-  addProject
+  addProject,
 } = require('./project');
 
 const {
@@ -16,5 +16,5 @@ module.exports = {
   addEmployee,
   getProject,
   getProjectById,
-  addProject
+  addProject,
 };
