@@ -1,27 +1,26 @@
-const db = require('../lib/database');
 const Project = require('../modal/project');
 const {
   getDataById,
   getData,
-  addData
+  addData,
 } = require('../services/index');
 
-function getProject (req, res){
+function getProject(req, res) {
   getData(Project)
-  .then(data => res.send(data))
-  .catch(err => console.log(err));
+    .then(data => res.send(data))
+    .catch(err => res.send(err));
 }
 
 
-function getProjectById (req, res){
+function getProjectById(req, res) {
   getDataById(Project, 'p_id', req.params.id)
-  .then(data => res.send(data))
-  .catch(err => console.log(err));
+    .then(data => res.send(data))
+    .catch(err => res.send(err));
 }
 
 
-function addProject (req, res){
-  let project = {};
+function addProject(req) {
+  const project = {};
   project.p_id = req.body.p_id;
   project.p_name = req.body.p_name;
   project.days = req.body.days;
@@ -32,5 +31,5 @@ function addProject (req, res){
 module.exports = {
   getProject,
   getProjectById,
-  addProject
+  addProject,
 };
