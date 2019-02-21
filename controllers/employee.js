@@ -1,27 +1,26 @@
-const db = require('../lib/database');
 const Employee = require('../modal/employee');
 const {
   getDataById,
   getData,
-  addData
+  addData,
 } = require('../services/index');
 
-function getEmployees(req, res){
+function getEmployees(req, res) {
   getData(Employee)
-  .then(data => res.send(data))
-  .catch(err => console.log(err));
+    .then(data => res.send(data))
+    .catch(err => res.send(err));
 }
 
 
-function getEmployeeById(req, res){
+function getEmployeeById(req, res) {
   getDataById(Employee, 'emp_id', req.params.id)
-  .then(data => res.send(data))
-  .catch(err => console.log(err));
+    .then(data => res.send(data))
+    .catch(err => res.send(err));
 }
 
 
-function addEmployee (req, res){
-  let employee = {};
+function addEmployee(req) {
+  const employee = {};
   employee.emp_id = req.body.emp_id;
   employee.emp_name = req.body.emp_name;
   employee.address = req.body.address;
@@ -32,5 +31,5 @@ function addEmployee (req, res){
 module.exports = {
   getEmployees,
   getEmployeeById,
-  addEmployee
+  addEmployee,
 };
