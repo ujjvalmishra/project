@@ -1,0 +1,393 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"prjctRouter"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "controllers/index.js",
+			"settings":
+			{
+				"buffer_size": 1641,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controllers/project.js",
+			"settings":
+			{
+				"buffer_size": 720,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controllers/employee.js",
+			"settings":
+			{
+				"buffer_size": 757,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "employee"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rails/Desktop/project"
+	],
+	"file_history":
+	[
+		"/home/rails/Desktop/project/services/index.js",
+		"/home/rails/Desktop/project/server.js",
+		"/home/rails/Desktop/project/modal/project.js",
+		"/home/rails/Desktop/project/modal/employee.js",
+		"/home/rails/Desktop/project/lib/database.js",
+		"/home/rails/Desktop/project/database.js",
+		"/home/rails/Desktop/moduleEmployee.js",
+		"/home/rails/Desktop/moduleProject.js",
+		"/home/rails/Desktop/project/modal/index.js",
+		"/home/rails/Desktop/project/routes/index.js",
+		"/home/rails/Desktop/project/routes/projectRouter.js",
+		"/home/rails/Desktop/sample_project/routes/userRoutes.js",
+		"/home/rails/Desktop/sample_project/routes/index.js",
+		"/home/rails/Desktop/project/routes/employeeRouter.js",
+		"/home/rails/Desktop/sample_project/server.js",
+		"/home/rails/Desktop/sample_project/controller/index.js",
+		"/home/rails/Desktop/project/controllers/index.js",
+		"/home/rails/Desktop/clone /loginapp-gfg/routes/users1.js",
+		"/home/rails/Desktop/clone /loginapp-gfg/routes/index.js",
+		"/home/rails/Desktop/clone /loginapp-gfg/routes/users.js",
+		"/home/rails/Desktop/clone /loginapp-gfg/views/login.handlebars",
+		"/home/rails/Desktop/project/moduleEmployee.js",
+		"/home/rails/Desktop/project/moduleProject.js",
+		"/home/rails/Desktop/project/operations.js",
+		"/home/rails/Desktop/babel/es6/get.js",
+		"/home/rails/Desktop/project/index.js",
+		"/home/rails/Desktop/project/routers/db_test.js",
+		"/home/rails/Desktop/QUERIES",
+		"/home/rails/Desktop/js-examples/test/testcF.js",
+		"/home/rails/Desktop/js-examples/test/testsL.js",
+		"/home/rails/Desktop/js-examples/secondLargest.js",
+		"/home/rails/Desktop/js-examples/index.js",
+		"/home/rails/Desktop/js-examples/calculateFrequency.js",
+		"/home/rails/Desktop/js-examples/package.json",
+		"/home/rails/Desktop/js-examples/.babelrc",
+		"/home/rails/Desktop/babel/es6/package.json",
+		"/home/rails/Desktop/babel/es6/index.js",
+		"/home/rails/Desktop/file-examples/fileHandling.js",
+		"/home/rails/Desktop/project/routers/.babelrc",
+		"/home/rails/Desktop/project/routers/package.json",
+		"/home/rails/Desktop/babel/es6/check.js",
+		"/home/rails/Desktop/babel/es6/.babelrc",
+		"/home/rails/Desktop/babel/middleware/check.js",
+		"/home/rails/Desktop/project/routers/index.js",
+		"/home/rails/Desktop/project/routers/babel.config.js",
+		"/home/rails/Desktop/project/routers/package-lock.json",
+		"/home/rails/Desktop/project/routers/test.js",
+		"/home/rails/Desktop/project/controllers/data.js",
+		"/home/rails/Desktop/project/routers/check.js",
+		"/home/rails/Desktop/project/middlewares/check.js",
+		"/home/rails/Desktop/project/test.js",
+		"/home/rails/Desktop/project/index.sublime-project",
+		"/home/rails/Desktop/project/package-lock.json",
+		"/home/rails/Desktop/project/package.json",
+		"/home/rails/Desktop/project/API.js",
+		"/home/rails/Desktop/file-examples/promise.js",
+		"/home/rails/Desktop/project/untit.js",
+		"/home/rails/Desktop/project/untitled.js",
+		"/home/rails/Desktop/file-examples/untitled.js",
+		"/home/rails/Desktop/untitled.js",
+		"/home/rails/Desktop/js-examples/flatten.js",
+		"/home/rails/Desktop/js-examples/unflatten.js",
+		"/home/rails/Desktop/js-examples/untitled.js",
+		"/home/rails/Desktop/js-examples/flattenRec.js",
+		"/home/rails/Desktop/js-examples/assignment.js",
+		"/home/rails/Desktop/index.js",
+		"/home/rails/Desktop/flattenObject.js",
+		"/home/rails/Desktop/grid.html",
+		"/home/rails/Desktop/main.js",
+		"/home/rails/.config/sublime-text-3/Packages/User/JSC.sublime-build",
+		"/home/rails/grid_Game",
+		"/home/rails/ujjawal.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"module.exports.",
+			"check.checkLogin ,",
+			",check.checkLogin",
+			"NAME",
+			"EMPLOYEE_DETAILS",
+			"ROLES",
+			"EMPLOYEE_DETAILS",
+			"45",
+			"EMPLOYEE_DETAILS",
+			"'P",
+			"PROJECT"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" function",
+			" ",
+			"",
+			"P",
+			"WORK_IN",
+			"ROLES",
+			"'ADDRESS1'",
+			"NAME",
+			"'E",
+			"EMPLOYEE_DETAILS"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "controllers/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1641,
+								1641
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "controllers/project.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "controllers/employee.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								754,
+								754
+							]
+						],
+						"settings":
+						{
+							"auto_name": "employee",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/JSC.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
